@@ -13,7 +13,11 @@ const config: Config = {
         'gradient-conic':
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
       },
+      height:{
+        'h-26':'86px'
+      }
     },
+    safelist: ['animate-[fade-in_1s_ease-in-out]', 'animate-[fade-in-down_1s_ease-in-out]']
   },
   plugins: [],
 }
