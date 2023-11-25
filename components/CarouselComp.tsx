@@ -119,7 +119,7 @@ export default function CarouselComponent() {
         />{" "}
         <span className="absolute z-50 top-1/3 md:text-7xl text-4xl  right-10 md:right-20 text-white font-bold">
           heritage <br />
-          woman's <br />
+          woman&apos;s <br />
           tank
         </span>
       </div>
